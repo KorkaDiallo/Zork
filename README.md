@@ -4,7 +4,7 @@ Jeu de deplacement
 
 Les commandes utilisées:
 
-aller : choisir la direction dans la quelle on veut y aller/
+aller [sud/nord/est/ouest]: choisir la direction dans la quelle on veut aller/
 quitter : pour sortir du jeu /
 aide : affiches toutes les commandes disponibles/
 et reconnues dans le programme
